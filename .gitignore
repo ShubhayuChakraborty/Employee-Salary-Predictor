@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Packages
+*.egg-info/
+dist/
+build/
+
+# Data and models (consider storing models in releases or artifact storage)
+*.pkl
+*.h5
+*.sqlite3
+
+# Excel and large datasets (if you prefer)
+*.xlsx
+*.csv
